@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Ordaro Cloud POS",
-  url: "https://chainpos.live",
+  url: "https://pos.ordaro.cloud.live",
   description: "AI-Powered POS system for modern restaurants with multi-channel ordering, real-time analytics, and intelligent delivery coordination. Currently in MVP stage. Full launch January 10th.",
   links: {
     home: "/",
@@ -12,8 +12,8 @@ export const siteConfig = {
     pricing: "/pricing",
     integrations: "/integrations",
     solutions: "/solutions",
-    signup: "https://chainpos.live",
-    signin: "https://chainpos.live/login",
+    signup: "https://pos.ordaro.cloud",
+    signin: "https://pos.ordaro.cloud/login",
   },
 }
 
