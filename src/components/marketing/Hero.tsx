@@ -16,7 +16,7 @@ export function Hero() {
           <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-400">
             Transform your restaurant operations with Ordaro Cloud POS. Accept
             orders via WhatsApp, manage inventory in real-time, and
-            optimize delivery with AI-powered coordination. <strong>Currently in MVP stage - Full launch January 10th, 2025.</strong> Built for scale with
+            optimize delivery with AI-powered coordination. <strong>Currently in MVP stage - Full launch January 10th, 2026.</strong> Built for scale with
             sub-200ms response times and 99.9% uptime.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
